@@ -1,6 +1,6 @@
 accelerate
 clean-fid
-clip-anytorch
+#clip-anytorch
 dctorch
 einops
 jsonmerge
